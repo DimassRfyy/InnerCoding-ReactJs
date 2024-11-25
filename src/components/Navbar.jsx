@@ -5,7 +5,7 @@ function Navbar() {
   return (
     <nav>
         <div className="wrapper">
-            <div className="logo"><a href=''>InnerCoding.</a></div>
+            <div className="logo"><a href=''>InnerCoding</a></div>
             <div className="menu">
                 <ul>
                     <li><a href="#home">Home</a></li>
